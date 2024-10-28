@@ -1,0 +1,3 @@
+for backend - 'npm run server'
+for frontend - 'npm run dev'
+for admin - 'npm run dev'
